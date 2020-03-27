@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Tweaks the game rate by a factor of two and causes flux to accumulate while online, using temporal accelerators.
-// @author       You
+// @author       MercuriusXeno
 // @include     *bloodrizer.ru/games/kittens/*
 // @include     file:///*kitten-game*
 // @include     *kittensgame.com/web/*
